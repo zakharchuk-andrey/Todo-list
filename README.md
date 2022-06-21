@@ -6,4 +6,4 @@
 
 - Adaptation for `Iphone SE`, `Iphone XR`, `Ipad Air`
 
-## [TODO-LIST](https://github.com/zakharchuk-andrey/Todo-list.git) 
+## [TODO-LIST](https://zakharchuk-andrey.github.io/Todo-list/)) 
