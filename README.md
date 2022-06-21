@@ -2,7 +2,7 @@
 
 **Implemented the functions: of adding notes, deleting one note, clearing everything.**
 
-<img src='preview.png'>
+<img src='preview.jpg'>
 
 - Adaptation for `Iphone SE`, `Iphone XR`, `Ipad Air`
 
